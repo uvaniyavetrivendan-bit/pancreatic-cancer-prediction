@@ -1,5 +1,4 @@
-# AI/ML research project for pancreatic cancer prediction using genomic data
-# AI-Based Pancreatic Cancer Prediction Using Genomic Data
+# AI/ML based research project for pancreatic cancer prediction using genomic data
 
 # Overview
 
